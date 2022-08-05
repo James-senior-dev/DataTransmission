@@ -4,14 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/**
- * This class provides some simple methods for input/output from and to a
- * terminal.
- * <p>
- * <p><b>Never modify this class, never upload it to Praktomat. This is only for your
- * local use. If an assignment tells you to use this class for input and output
- * never use System.out or System.in in the same assignment.
- */
+
 public final class Terminal {
     
     /**
